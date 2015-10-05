@@ -30,6 +30,5 @@ C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.Model\bin\Debug\
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.Model\bin\Debug\System.Web.WebPages.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.Model\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.Model\bin\Debug\System.Web.WebPages.Razor.xml
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.Model\obj\Debug\iMealPlanner.Model.csprojResolveAssemblyReference.cache
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.Model\obj\Debug\iMealPlanner.Model.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.Model\obj\Debug\iMealPlanner.Model.pdb

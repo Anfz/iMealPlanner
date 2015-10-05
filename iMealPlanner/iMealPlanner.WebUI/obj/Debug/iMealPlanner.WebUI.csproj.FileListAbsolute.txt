@@ -16,6 +16,10 @@ C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealP
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\Antlr3.Runtime.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\EntityFramework.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\EntityFramework.SqlServer.dll
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Contracts.dll
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.DAL.dll
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Model.dll
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Services.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -46,6 +50,10 @@ C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\System
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\System.Web.WebPages.Razor.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\WebActivatorEx.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\WebGrease.dll
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Contracts.pdb
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.DAL.pdb
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Model.pdb
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Services.pdb
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
@@ -79,11 +87,3 @@ C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\Micros
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\obj\Debug\iMealPlanner.WebUI.csprojResolveAssemblyReference.cache
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\obj\Debug\iMealPlanner.WebUI.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\obj\Debug\iMealPlanner.WebUI.pdb
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Contracts.dll
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.DAL.dll
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Model.dll
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Services.dll
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Contracts.pdb
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.DAL.pdb
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Model.pdb
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI\bin\iMealPlanner.Services.pdb

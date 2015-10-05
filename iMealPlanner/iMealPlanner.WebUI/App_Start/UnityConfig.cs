@@ -1,6 +1,9 @@
 using System;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
+using iMealPlanner.DAL.Repos;
+using iMealPlanner.Contracts.Repos;
+using iMealPlanner.Model;
 
 namespace iMealPlanner.WebUI.App_Start
 {
@@ -37,6 +40,7 @@ namespace iMealPlanner.WebUI.App_Start
 
             // TODO: Register your types here
             // container.RegisterType<IProductRepository, ProductRepository>();
+            container.RegisterType<IRepositoryBase<Recipe>, RecipeRepository>();
         }
     }
 }

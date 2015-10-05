@@ -1,4 +1,7 @@
-﻿using iMealPlanner.DAL.Data;
+﻿using iMealPlanner.Contracts.Repos;
+using iMealPlanner.DAL.Data;
+using iMealPlanner.DAL.Repos;
+using iMealPlanner.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +12,16 @@ namespace iMealPlanner.WebUI.Controllers
 {
     public class HomeController : Controller
     {
+        IRepositoryBase<Recipe> recipes;
+
+        public HomeController(IRepositoryBase<Recipe> recipes)
+        {
+            this.recipes = recipes;
+        }
+
         public ActionResult Index()
         {
-            DataContext context = new DataContext();
+            
             return View();
         }
 

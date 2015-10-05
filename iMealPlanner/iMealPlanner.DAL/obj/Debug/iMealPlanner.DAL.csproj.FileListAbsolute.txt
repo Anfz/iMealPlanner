@@ -1,4 +1,3 @@
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.csprojResolveAssemblyReference.cache
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.DAL.dll.config
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.DAL.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.DAL.pdb
@@ -35,5 +34,8 @@ C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\Sy
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\System.Web.WebPages.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.csprojResolveAssemblyReference.cache
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.Migrations.RecipeInitial.resources
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.csproj.GenerateResource.Cache
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.pdb

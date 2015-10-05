@@ -105,7 +105,14 @@
     <Compile Include="App_Start\UnityConfig.cs" />
     <Compile Include="App_Start\UnityMvcActivator.cs" />
     <Compile Include="Data\DataContext.cs" />
+    <Compile Include="Migrations\201510050646295_Recipe-Initial.cs" />
+    <Compile Include="Migrations\201510050646295_Recipe-Initial.Designer.cs">
+      <DependentUpon>201510050646295_Recipe-Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repos\RecipeRepository.cs" />
+    <Compile Include="Repos\RepositoryBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -120,6 +127,11 @@
       <Project>{1e7a4984-1dfd-47cb-af6c-637e9c2ceb9b}</Project>
       <Name>iMealPlanner.Model</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201510050646295_Recipe-Initial.resx">
+      <DependentUpon>201510050646295_Recipe-Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
