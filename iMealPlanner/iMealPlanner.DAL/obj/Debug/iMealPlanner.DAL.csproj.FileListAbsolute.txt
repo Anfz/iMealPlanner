@@ -1,8 +1,11 @@
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.csprojResolveAssemblyReference.cache
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.DAL.dll.config
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.DAL.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.DAL.pdb
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\EntityFramework.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.Contracts.dll
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.Model.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\Microsoft.Practices.Unity.dll
@@ -16,6 +19,8 @@ C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\Sy
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\System.Web.WebPages.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\System.Web.WebPages.Razor.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\WebActivatorEx.dll
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.Contracts.pdb
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\iMealPlanner.Model.pdb
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\EntityFramework.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
@@ -30,6 +35,5 @@ C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\Sy
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\System.Web.WebPages.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\bin\Debug\System.Web.WebPages.Razor.xml
-C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.csprojResolveAssemblyReference.cache
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.pdb

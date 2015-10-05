@@ -1,0 +1,1 @@
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.WebUI.Tests\obj\Debug\iMealPlanner.WebUI.Tests.csprojResolveAssemblyReference.cache

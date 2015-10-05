@@ -104,11 +104,22 @@
   <ItemGroup>
     <Compile Include="App_Start\UnityConfig.cs" />
     <Compile Include="App_Start\UnityMvcActivator.cs" />
+    <Compile Include="Data\DataContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\iMealPlanner.Contracts\iMealPlanner.Contracts.csproj">
+      <Project>{a28f8411-6cd9-410c-98e4-c03947442a60}</Project>
+      <Name>iMealPlanner.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iMealPlanner.Model\iMealPlanner.Model.csproj">
+      <Project>{1e7a4984-1dfd-47cb-af6c-637e9c2ceb9b}</Project>
+      <Name>iMealPlanner.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

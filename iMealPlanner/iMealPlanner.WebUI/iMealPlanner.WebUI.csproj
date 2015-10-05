@@ -272,6 +272,24 @@
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\iMealPlanner.Contracts\iMealPlanner.Contracts.csproj">
+      <Project>{a28f8411-6cd9-410c-98e4-c03947442a60}</Project>
+      <Name>iMealPlanner.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iMealPlanner.DAL\iMealPlanner.DAL.csproj">
+      <Project>{53870f03-9adf-43e1-b294-b318e226f44e}</Project>
+      <Name>iMealPlanner.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iMealPlanner.Model\iMealPlanner.Model.csproj">
+      <Project>{1e7a4984-1dfd-47cb-af6c-637e9c2ceb9b}</Project>
+      <Name>iMealPlanner.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iMealPlanner.Services\iMealPlanner.Services.csproj">
+      <Project>{f3b77028-b566-48e6-8f7b-4607b71111bf}</Project>
+      <Name>iMealPlanner.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
