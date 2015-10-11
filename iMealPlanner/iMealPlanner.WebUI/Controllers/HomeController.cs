@@ -21,8 +21,8 @@ namespace iMealPlanner.WebUI.Controllers
 
         public ActionResult Index()
         {
-            
-            return View();
+            var recipeList = recipes.GetAll();
+            return View(recipeList);
         }
 
         public ActionResult About()
@@ -38,5 +38,51 @@ namespace iMealPlanner.WebUI.Controllers
 
             return View();
         }
+
+
+        public ActionResult RecipeList()
+        {
+            var model = recipes.GetAll();
+
+            return View(model);
+        }
+
+        public ActionResult CreateRecipe()
+        {
+            var model = new Recipe();
+
+            return View(model);
+        }
+
+
+        [HttpPost]
+        public ActionResult CreateRecipe(Recipe recipe)
+        {
+
+            recipes.Insert(recipe);
+            recipes.Commit();
+
+            return RedirectToAction("RecipeList");
+        }
+
+        public ActionResult EditRecipe(int id)
+        {
+            Recipe recipe = recipes.GetById(id);
+
+
+            return View(recipe);
+        }
+
+        [HttpPost]
+        public ActionResult EditRecipe(Recipe recipe)
+        {
+            recipes.Update(recipe);
+            recipes.Commit();
+
+            return RedirectToAction("RecipeList");
+        }
+
+
+
     }
 }
