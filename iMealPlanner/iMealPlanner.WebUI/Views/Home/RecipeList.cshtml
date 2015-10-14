@@ -1,0 +1,42 @@
+﻿@model IEnumerable<iMealPlanner.Model.Recipe>
+
+@{
+    ViewBag.Title = "RecipeList";
+
+}
+
+<h2>Recipe List</h2>
+
+<p>
+    @Html.ActionLink("Add New", "CreateRecipe")
+</p>
+
+<div class="table-responsive">
+    <table class="table">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th>@Html.DisplayNameFor(model => model.RecipeUrl)</th>
+            <th>@Html.DisplayNameFor(model => model.Instructions)</th>            
+            <th>@Html.DisplayNameFor(model => model.Notes)</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a href="/Home/EditRecipe/@item.RecipeId">@Html.DisplayFor(modelItem => item.Description)</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RecipeUrl)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Instructions)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Notes)
+                </td>
+                <td></td>
+            </tr>
+        }
+    </table>
+</div> <!-- class=table-responsive !-->
