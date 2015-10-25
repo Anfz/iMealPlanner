@@ -39,3 +39,4 @@ C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iM
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.csproj.GenerateResource.Cache
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.dll
 C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.pdb
+C:\personal\visual studio\mealplanner\iMealPlanner\iMealPlanner.DAL\obj\Debug\iMealPlanner.DAL.Migrations.CodeIngredientInitial.resources

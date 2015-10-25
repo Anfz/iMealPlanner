@@ -20,5 +20,7 @@ namespace iMealPlanner.DAL.Data
         /// </summary>
         
         public DbSet<Recipe> Recipes { get; set; }
+        public DbSet<Code> Codes { get; set; }
+        public DbSet<Ingredient> Ingredients { get; set; }
     }
 }
